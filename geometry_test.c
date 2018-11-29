@@ -154,8 +154,9 @@ START_TEST(test_2d_area_triangle){
     a.x = a.y = b.x = c.y = 0;
     b.y = 4;
     c.x = 4;
-    ck_assert(coord_2d_area(&a, &b, &c) == 8.0);
+    ck_assert(coord_2d_area_triangle(&a, &b, &c) == 8.0);
 }
+END_TEST
 
 /* coord_2d Test Suite */
 Suite* coord_2d_suite(void)
