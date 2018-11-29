@@ -7,7 +7,7 @@
  * This file containsunit tests for geometry.c
  *
  * Requires http://check.sourceforge.net/
- *
+ *Trevor Buck & Cort Sharp
  */
 
 #include <stdlib.h>

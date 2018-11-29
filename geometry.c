@@ -5,7 +5,7 @@
  * Summer 2014
  *
  * This file contains a simple geomtery functions.
- *
+ * Trevor Buck & Cort Sharp
  */
 
 #include <stdlib.h>
